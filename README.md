@@ -2,19 +2,19 @@
 
 I'm a high schooler who loves coding, math, and everything in between. That includes cryptography, cryptocurrency, artificial intelligence, and quantum computing. I'll never know everything there is to know about those, but I'm trying to learn something new every day. I believe in the principles of FOSS, and the vast majority of my projects are copylefted—shoot me an email if you have questions, concerns, comments, angry rants, or anything else you want to say to me. When I'm not learning about or making something \[possibly\] cool, I'm probably reading science fiction, making blunders in Chess or Diplomacy, playing modded Minecraft, or fixing my Linux install because I somehow managed to break it again.
 
-Currently Coding: `Making GitHub Linguist recognise Markdown files`
+Currently Making: `GitHub Linguist recognise Markdown files`
 
 Currently Learning: `OOP in C++; it's about as fun as it sounds `
 
 ---
 
-[![stonktrack](https://github-readme-stats.vercel.app/api/pin?username=&repo=stonktrack&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//stonktrack)
+[![bookmarkarchiver](https://github-readme-stats.vercel.app/api/pin?username=&repo=bookmarkarchiver&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//bookmarkarchiver)
 [![snakewhisper](https://github-readme-stats.vercel.app/api/pin?username=&repo=snakewhisper&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//snakewhisper)
 [![simple-markov](https://github-readme-stats.vercel.app/api/pin?username=&repo=simple-markov&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//simple-markov)
 [![-site](https://github-readme-stats.vercel.app/api/pin?username=&repo=-site&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//-site)
-[![submission-downloader](https://github-readme-stats.vercel.app/api/pin?username=&repo=submission-downloader&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//submission-downloader)
+[![stonktrack](https://github-readme-stats.vercel.app/api/pin?username=&repo=stonktrack&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//stonktrack)
 [![CTFOJ](https://github-readme-stats.vercel.app/api/pin?username=jdabtieu&repo=CTFOJ&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/jdabtieu/CTFOj)
-[![cryptopals-solutions](https://github-readme-stats.vercel.app/api/pin?username=&repo=cryptopals-solutions&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//cryptopals-solutions)
+[![superlumic](https://github-readme-stats.vercel.app/api/pin?username=&repo=superlumic&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//superlumic)
 [![dogecoin-unofficial](https://github-readme-stats.vercel.app/api/pin?username=&repo=dogecoin-unofficial&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//dogecoin-unofficial)
 
 ---
