@@ -7,7 +7,7 @@ I'm a high schooler who loves coding, math, and everything in between. That incl
 [![bookmarkarchiver](https://github-readme-stats.vercel.app/api/pin?username=&repo=bookmarkarchiver&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//bookmarkarchiver)
 [![snakewhisper](https://github-readme-stats.vercel.app/api/pin?username=&repo=snakewhisper&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//snakewhisper)
 [![simple-markov](https://github-readme-stats.vercel.app/api/pin?username=&repo=simple-markov&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//simple-markov)
-[![-site](https://github-readme-stats.vercel.app/api/pin?username=&repo=-site&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//-site)
+[![-new](https://github-readme-stats.vercel.app/api/pin?username=&repo=-new&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//-new)
 [![stonktrack](https://github-readme-stats.vercel.app/api/pin?username=&repo=stonktrack&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//stonktrack)
 [![CTFOJ](https://github-readme-stats.vercel.app/api/pin?username=jdabtieu&repo=CTFOJ&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/jdabtieu/CTFOj)
 [![superlumic](https://github-readme-stats.vercel.app/api/pin?username=&repo=superlumic&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//superlumic)
