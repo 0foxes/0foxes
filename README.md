@@ -12,7 +12,7 @@ I'm a first-year Software Engineering student at the University of Waterloo expe
 
 ---
 
-[![bookmarkarchiver](https://github-readme-stats.vercel.app/api/pin?username=&repo=bookmarkarchiver&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//bookmarkarchiver)
+[![bookmark-archiver](https://github-readme-stats.vercel.app/api/pin?username=&repo=bookmark-archiver&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//bookmark-archiver)
 [![-new](https://github-readme-stats.vercel.app/api/pin?username=&repo=-new&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//-new)
 [![dogecoin-unofficial](https://github-readme-stats.vercel.app/api/pin?username=&repo=dogecoin-unofficial&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//dogecoin-unofficial)
 [![file-visualiser](https://github-readme-stats.vercel.app/api/pin?username=&repo=file-visualiser&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com//file-visualiser)
