@@ -13,7 +13,7 @@ I'm a Software Engineering student at the University of Waterloo. I love coding,
 ---
 
 [![bookmark-archiver](https://github-readme-stats.vercel.app/api/pin?username=0foxes&repo=bookmark-archiver&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/0foxes/bookmark-archiver)
-[![chenanthony-new](https://github-readme-stats.vercel.app/api/pin?username=0foxes&repo=chenanthony-new&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/0foxes/chenanthony-new)
+[![chenanthony-new](https://github-readme-stats.vercel.app/api/pin?username=0foxes&repo=anthony-new&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/0foxes/anthony-new)
 [![dogecoin-unofficial](https://github-readme-stats.vercel.app/api/pin?username=0foxes&repo=dogecoin-unofficial&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/0foxes/dogecoin-unofficial)
 [![file-visualiser](https://github-readme-stats.vercel.app/api/pin?username=0foxes&repo=file-visualiser&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/0foxes/file-visualiser)
 [![simple-markov](https://github-readme-stats.vercel.app/api/pin?username=0foxes&repo=simple-markov&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/0foxes/simple-markov)
