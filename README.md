@@ -7,6 +7,9 @@ I'm a Software Engineering student at the University of Waterloo. I love coding,
 </div>
 
 <div align="center">
+  
 ![Stats](./profile/stats.svg)
+
 ![Languages](./profile/top-langs.svg)
+
 </div>
