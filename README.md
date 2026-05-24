@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm <a href="https://.com/"></a>.</h1>
+<h1 align="center">Hello there!</h1>
 
 ---
 
@@ -9,6 +9,9 @@ I'm a Software Engineering student at the University of Waterloo. I love coding,
 </div>
 
 <div align="center">
+
+![Stats](./profile/stats.svg)
+![Languages](./profile/top-langs.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0foxes&count_private=true&show_icons=true&theme=material-palenight&icon_color=6a5acd&hide_border=true&line_height=28&custom_title=Contribution%20Statistics&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=0foxes&theme=material-palenight&hide_border=true&layout=compact&langs_count=10&card_width=333)
