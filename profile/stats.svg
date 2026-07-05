@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">0foxes' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 66, Total Commits  (last year) : 106, Total PRs: 206, Total Issues: 79, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 65, Total Commits  (last year) : 106, Total PRs: 206, Total Issues: 79, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.21653681849554;
+        stroke-dashoffset: 83.53053908272243;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >66</text>
+      >65</text>
     </g>
   </g><g transform="translate(0, 28)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
